@@ -32,3 +32,12 @@ I'm currently focused on building projects that go beyond basic implementations 
 * 💻 GitHub: [@spricew](https://github.com/spricew)
 * 💼 LinkedIn: [Heyder Medina](https://www.linkedin.com/in/heyderix/)
 * 🌎 Portfolio: [heyder-medina-portfolio.vercel.app](https://heyder-medina-portfolio.vercel.app)
+
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/spricew/spricew/snake-output/snake.svg" alt="Snake animation" />
+
+###
