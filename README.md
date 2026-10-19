@@ -8,7 +8,7 @@ I mainly work with **JavaScript, TypeScript, React, Next.js and Tailwind CSS**, 
 
 I'm currently focused on building projects that go beyond basic implementations and allow me to explore real-world software engineering concepts.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +17,7 @@ I'm currently focused on building projects that go beyond basic implementations 
 </p>
 
 - **Languages:** JavaScript · TypeScript · Python
-- **Frontend & Mobile:** HTML5 · CSS3 · React · Next.js · Astro · Flutter · Tailwind CSS · Bootstrap · Material UI
+- **Frontend & Mobile:** HTML5 · CSS3 · React · Next.js · Astro · Flutter · React Native · Tailwind CSS · Bootstrap · Material UI
 - **Backend & Cloud:** Node.js · Supabase
 - **Databases:** PostgreSQL · MongoDB · SQLite
 - **DevOps & Tools:** Git · Docker · Vite · npm · pnpm · Postman · Vercel
@@ -27,11 +27,10 @@ I'm currently focused on building projects that go beyond basic implementations 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's connect
 
-* 💻 GitHub: [@spricew](https://github.com/spricew)
-* 💼 LinkedIn: [Heyder Medina](https://www.linkedin.com/in/heyderix/)
-* 🌎 Portfolio: [heyder-medina-portfolio.vercel.app](https://heyder-medina-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌎_Portfolio-heyder--medina--portfolio.vercel.app-7c3aed?style=flat-square)](https://heyder-medina-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-@heyderix-0a66c2?style=flat-square)](https://www.linkedin.com/in/heyderix/)
 
 
 ###
