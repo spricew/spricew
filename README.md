@@ -1,5 +1,5 @@
 
-<img src="https://github.com/spricew/spricew/blob/main/Banner.png?raw=true" alt="spricew fullstack web developer" width="100%">
+<img src="Banner.png" alt="spricew fullstack web developer" width="100%">
 
 
 I'm a developer from **Yucatán, México**, passionate about building modern web applications and continuously improving my software engineering skills.
