@@ -32,8 +32,11 @@ I'm currently focused on building projects that go beyond basic implementations 
 [![Portfolio](https://img.shields.io/badge/🌎_Portfolio-heyder--medina--portfolio.vercel.app-7c3aed?style=flat-square)](https://heyder-medina-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-@heyderix-0a66c2?style=flat-square)](https://www.linkedin.com/in/heyderix/)
 
+<br clear="both">
 
-###
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spricew&theme=shadow-purple&border_radius=10&card_width=850" alt="GitHub Streak" width="100%" />
+</a>
 
 <br clear="both">
 
