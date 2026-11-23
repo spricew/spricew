@@ -25,8 +25,6 @@ I'm currently focused on building projects that go beyond basic implementations 
 - **Hardware & IoT:** Arduino
 
 
----
-
 ## 🌐 Let's connect
 
 [![Portfolio](https://img.shields.io/badge/🌎_Portfolio-heyder--medina--portfolio.vercel.app-7c3aed?style=flat-square)](https://heyder-medina-portfolio.vercel.app)
